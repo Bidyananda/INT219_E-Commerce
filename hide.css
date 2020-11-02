@@ -1,0 +1,23 @@
+@media only screen and (max-width: 1500px){
+    .sale{
+        display: none;
+    }
+    .option{
+        display: none;
+    }
+    .f{
+        display: none;
+    }
+    .f1{
+        display: none;
+    }
+    .f3{
+        display: none;
+    }
+    .offer{
+        display: none;
+    }
+    .testimonial{
+        display: none;
+    }
+}
